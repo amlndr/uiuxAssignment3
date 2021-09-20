@@ -6,9 +6,13 @@ The main features that were planned are:
 2. track donation progress
 
 The design has been changed as there wasn't enough time. The feature of "track donation progress" is not implemented.
-
-![Screenshot of the website locally](ss.png)
- 
+# Home Page
+![Screenshot of the website locally of home page](ss.png)
+# Donate Form Page
+ ![Screenshot of the website locally of form page](ss2.png)
+ ![Screenshot of the website locally of form page](ss3.png)
+# Successfully Sent Form Page
+ ![Screenshot of the website locally of snet form page](ss4.png)
 
 
 
