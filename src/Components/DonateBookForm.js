@@ -158,9 +158,9 @@ further about your donation
                             type="date" id="collectDate" name="collecDate" 
                             placeholder="DD/MM/YYYY" />
                 </div>
-                    
+                    <br></br>
                     <button 
-                        class=" space-y-12 px-5  py-3 border 
+                        class=" space-y-12 px-5 py-3 border 
                             border-transparent text-base font-medium rounded-md text-white bg-indigo-500 
                             hover:bg-green-500">
                 Donate!
