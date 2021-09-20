@@ -39,7 +39,7 @@ const DonateBookForm = ({history}) => {
     }
     return (
         <>
-        <div class=" text-center max-w-7xl mx-auto py-6 px-4
+        <div class=" text-center max-w-xl min-w-full mx-auto py-10 px-12 
              ">
             <h2 class=" tracking-tight text-gray-900 ">
                 <Link to="/" class="block text-4xl text-indigo-500 hover:text-green-500">book<b>Donate</b></Link>
@@ -50,15 +50,15 @@ const DonateBookForm = ({history}) => {
                 Please fill in this form to donate your book. <br></br>
                 We will happily collect your book from your home.
             </p>
-
-            <div class="text-left ml-40 mr-40 ">
+        <div class= "flex justify-center">
+            <div class="text-left  justify-center items-center ">
                 <h1 class="font-bold text-lg mt-10 text-indigo-500">1. About Book</h1>
                 <p class="text-xs">
                     Please tell us more about the book you want to donate
                 </p>
 
                 <form onSubmit ={onCreate}
-                    class="block mt-5 space-y-4">
+                    class="block mt-5 space-y-4 ">
                     <div>
                         <label class="font-bold block">Title</label>
                         <input value = {newTitle}
@@ -168,19 +168,14 @@ further about your donation
                     
                 </form>
 
-                <div class=" flex flex-row items-center mt-14 mb-10 p-30 
-                w-full space-x-10 m-50">
-            
-            <div class=" text-center place-items-end rounded-md shadow">
-             
-            </div>
-         
-          </div>
+         </div>
+        
 
-                <div class="text-center inset-x-0 bottom-3 ">
+               
+            </div>
+            <div class="block text-center mt-10 inset-x-0 bottom-3 ">
             <p class="text-gray-300">by Nadira Amelia</p>
         </div>
-            </div>
 
           
 
