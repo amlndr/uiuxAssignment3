@@ -10,7 +10,6 @@ The design has been changed as there wasn't enough time. The feature of "track d
 ![Screenshot of the website locally of home page](ss.png)
 # Donate Form Page
  ![Screenshot of the website locally of form page](ss2.png)
- ![Screenshot of the website locally of form page](ss3.png)
 # Successfully Sent Form Page
  ![Screenshot of the website locally of snet form page](ss4.png)
 
