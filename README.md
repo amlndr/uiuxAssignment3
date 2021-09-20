@@ -6,6 +6,8 @@ The main features that were planned are:
 2. track donation progress
 
 The design has been changed as there wasn't enough time. The feature of "track donation progress" is not implemented.
+
+![Screenshot of the website locally](ss.png)
  
 
 
